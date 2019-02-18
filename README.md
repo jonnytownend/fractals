@@ -1,14 +1,18 @@
-# koch-fractals
-An experiment with Koch Fractals written in python.
-I'm hoping to turn this into a useable tool, and maybe a JavaScript web app.
+# fractals
+An experiment in creating fractals, written in python.  
+I'm hoping to turn this into a JavaScript web app through which users can choose their own fractal parameters.
 
 ## Screenshots of fractals
 | | |
 |-|-|
-|<img class="fractalImg" src="WAVES/Screen shot 2014-12-09 at 15.51.14.png" /> | <img class="fractalImg" src="WAVES/Screen shot 2014-12-09 at 15.52.48.png" />
-|<img class="fractalImg" src="WAVES/Screen shot 2014-12-09 at 15.57.42.png" /> | <img class="fractalImg" src="Snowflakes/Screen shot 2014-12-09 at 03.04.04.png" />
+|<img class="fractalImg" src="Fractal Images/13.png" /> | <img class="fractalImg" src="Fractal Images/14.png" />
+|<img class="fractalImg" src="Fractal Images/17.png" /> | <img class="fractalImg" src="Fractal Images/07.png" />
 
-<img src="WAVES/Coloured/three.png" />
+<img src="Fractal Images/Coloured/three.png" />
 
 ## Fractal animation
-<img src="WAVES/Forest Curl.gif" />
+<img src="Fractal Images/Forest Curl.gif" />
+
+## To-do
+- Re-write code in JavaScript using paper.js
+- Start implementing an interactive web app
